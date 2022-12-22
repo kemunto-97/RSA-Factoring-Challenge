@@ -10,5 +10,5 @@
 * Language: Bash script
 * OS: Ubuntu 14.04 LTS
 ---
-### Authors
+### Author
 Dianah Nyamweya
